@@ -3450,9 +3450,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.0"
@@ -8332,6 +8332,11 @@ pretty-format@^24.9.0:
     ansi-regex "^4.0.0"
     ansi-styles "^3.2.0"
     react-is "^16.8.4"
+
+pretty-print-json@^0.1.4:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/pretty-print-json/-/pretty-print-json-0.1.5.tgz#19ec7129b700af9d8f96a5721e15428836952969"
+  integrity sha512-ipYRh1Qg9Zix2BstoylSJwN59OXbfKXIMktDPrb/5a/6vhsX/QNnLuaRv9jfhH9kK/acYNe6dLMCTBeNoh1bgg==
 
 private@^0.1.6:
   version "0.1.8"
